@@ -3,17 +3,19 @@
 
 ### :man_technologist: About Me :
 <div>
-  <ul>
-    <li>:computer: I am a Java Developer from Czech Republic.</li>
-    <li>:telescope: I’m currently a student at Czech Technical University in Prague, Enterprise Systems.</li>
-    <li>:seedling: Exploring Java Spring Boot and planning to learn Front-End development in the future.</li>
-    <li>:zap: In my free time, I enjoy listening to Java podcasts, cooking, and walking.</li>
-    <li>:mailbox: How to reach me: 
-      <a href="https://www.linkedin.com/in/dmitrij-rastvorov-494810236" target="_blank">
-        <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
-      </a>
-    </li>
-  </ul>
+  <h4>
+    <ul>
+      <li>:computer: I am a Java Developer from Czech Republic.</li>
+      <li>:telescope: I’m currently a student at Czech Technical University in Prague, Enterprise Systems.</li>
+      <li>:seedling: Exploring Java Spring Boot and planning to learn Front-End development in the future.</li>
+      <li>:zap: In my free time, I enjoy listening to Java podcasts, cooking, and walking.</li>
+      <li>:mailbox: How to reach me: 
+        <a href="https://www.linkedin.com/in/dmitrij-rastvorov-494810236" target="_blank">
+          <img src="https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
+        </a>
+      </li>
+    </ul>
+  </h4>
 </div>
 <br>
 
