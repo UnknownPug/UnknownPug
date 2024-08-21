@@ -28,7 +28,7 @@
     <li>
       <strong>:mailbox: Connect with Me</strong><br>
       Feel free to reach out via LinkedIn:
-      <a href="https://www.linkedin.com/in/dmitrij-rastvorov-494810236" target="_blank">
+      <a href="/in/dmitrij-rastvorov-494810236" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge">
       </a>
     </li>
