@@ -17,7 +17,8 @@
     <br>
     <li>
       <strong>:seedling: Focus Areas</strong><br>
-      I am dedicated to mastering the Spring Boot framework and have plans to expand my knowledge into front-end development to broaden my full-stack development capabilities.
+      I am committed to mastering the Java language and the Spring Boot framework, with plans to expand my knowledge into front-end development to enhance my full-stack
+      development capabilities.
     </li>
     <br>
     <li>
