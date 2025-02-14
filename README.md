@@ -11,8 +11,8 @@
     </li>
     <br>
     <li>
-      <strong>:telescope: Student at Czech Technical University in Prague</strong><br>
-      Currently pursuing a degree in Enterprise Systems, enhancing my expertise in modern development technologies and methodologies.
+      <strong>:telescope: Graduated from Czech Technical University in Prague</strong><br>
+       Completed a Bachelor's degree in Enterprise Systems and gained knowledge of current technologies and development methodologies.
     </li>
     <br>
     <li>
