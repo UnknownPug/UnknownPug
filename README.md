@@ -4,7 +4,7 @@
 <div>  
   <ul style="list-style: none; padding-left: 0;">  
     <li>  
-      <strong>:computer: Java Developer specializing in Spring Boot</strong><br>  
+      <strong>:computer: Enterprise Engineer</strong><br>  
       I am a Enterprise Engineer based in the Czech Republic, specializing in building enterprise-grade applications.  
     </li>  
     <br>  
