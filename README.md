@@ -5,22 +5,22 @@
   <ul style="list-style: none; padding-left: 0;">  
     <li>  
       <strong>:computer: Java Developer specializing in Spring Boot</strong><br>  
-      I am a Java Developer based in the Czech Republic, specializing in building enterprise-grade applications using the Spring Boot framework.  
+      I am a Enterprise Engineer based in the Czech Republic, specializing in building enterprise-grade applications.  
     </li>  
     <br>  
     <li>  
       <strong>:telescope: Bachelor's Degree in Enterprise Systems</strong><br>  
-      Graduated from Czech Technical University in Prague with a Bachelor's degree in Enterprise Systems. Throughout my studies, I gained experience in team collaboration, Java Spring Boot projects, and a solid understanding of web application development and software engineering principles.  
+      Graduated from Czech Technical University in Prague with a Bachelor's degree in Enterprise Systems. Throughout my studies, I gained experience in team collaboration, solid understanding of web application development and software engineering principles.  
     </li>  
     <br>  
     <li>  
       <strong>:seedling: Focus Areas</strong><br>  
-      I am dedicated to mastering the Java language and the Spring Boot framework, with plans to expand my expertise into front-end development to enhance my full-stack capabilities.  
+      I am dedicated to mastering my programming skills, aiming to become a professional Enterprise Engineer.
     </li>  
     <br>  
     <li>  
       <strong>:zap: Personal Interests</strong><br>  
-      Outside of work and studies, I enjoy listening to Java-related podcasts, cooking, and staying active through regular walks and cycling.  
+      Outside of work and studies, I enjoy listening to podcasts, cooking, and staying active through regular walks and cycling.  
     </li>
     <br>  
     <li>  
